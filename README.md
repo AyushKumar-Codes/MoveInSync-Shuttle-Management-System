@@ -112,21 +112,20 @@ MONGODB_URI=mongodb://localhost:27017/moveinsync
 
  
 
-## 🔑 Project Structure
 moveinsync/
 ├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── con /
-│ │ ├── assets/
-│ │ └── App.js
-│ └── package.json
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── context/
+│   │   ├── assets/
+│   │   └── App.js
+│   └── package.json
 └── backend/
-├── models/
-├── routes/
-├── server.js
-└── package.json
+    ├── models/
+    ├── routes/
+    ├── server.js
+    └── package.json
 
  
 
