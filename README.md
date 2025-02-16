@@ -31,7 +31,7 @@ MoveInSync is a comprehensive shuttle management system designed for campus tran
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **State Management**: Context API
+- **State Management**: Con  API
 - **Styling**: Bootstrap, Custom CSS
 - **Icons**: Icomoon
 
@@ -58,7 +58,7 @@ npm start
 or
 node server.js
 
-text
+
 ### Frontend Setup
 Navigate to frontend directory
 cd moveinsync-frontend
@@ -69,7 +69,7 @@ npm install
 Start the development server
 npm start
 
-text
+
 The application will be available at http://localhost:3000
 
 ## 📸 Screenshots
@@ -91,26 +91,26 @@ Watch the Demo Video
 GET /api/routes - Get all routes
 POST /api/routes - Add new route
 
-text
+ 
 ### Bookings API
 POST /api/bookings - Create new booking
 GET /api/bookings/pending - Get pending bookings
 PUT /api/bookings/:id/accept - Accept booking
 PUT /api/bookings/:id/decline - Decline booking
 
-text
+ 
 ### Drivers API
 GET /api/drivers/available - Get available drivers
 PUT /api/drivers/:id/status - Update driver status
 
-text
+ 
 
 ## 💡 Environment Variables
 Create a `.env` file in the backend directory:
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/moveinsync
 
-text
+ 
 
 ## 🔑 Project Structure
 moveinsync/
@@ -118,7 +118,7 @@ moveinsync/
 │ ├── public/
 │ ├── src/
 │ │ ├── components/
-│ │ ├── context/
+│ │ ├── con /
 │ │ ├── assets/
 │ │ └── App.js
 │ └── package.json
@@ -128,7 +128,7 @@ moveinsync/
 ├── server.js
 └── package.json
 
-text
+ 
 
 ## 🛠️ Development
 1. Fork the repository
