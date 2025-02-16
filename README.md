@@ -102,31 +102,6 @@ PUT /api/bookings/:id/decline - Decline booking
 ### Drivers API
 GET /api/drivers/available - Get available drivers
 PUT /api/drivers/:id/status - Update driver status
-
- 
-
-## 💡 Environment Variables
-Create a `.env` file in the backend directory:
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/moveinsync
-
- 
-
-moveinsync/
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── assets/
-│   │   └── App.js
-│   └── package.json
-└── backend/
-    ├── models/
-    ├── routes/
-    ├── server.js
-    └── package.json
-
  
 
 ## 🛠️ Development
