@@ -83,7 +83,9 @@ The application will be available at http://localhost:3000
 | Booking History | Booking History |
 
 ## 🎥 Demo
-Watch the Demo Video
+
+Watch the Demo Video: [MoveInSync Demo](https://drive.google.com/file/d/18UUhdq0XYUIAqaNHHXDM_5KmmEfBfjuF/view?usp=drive_link)
+
 
 ## 📱 API Endpoints
 
