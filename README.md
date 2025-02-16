@@ -113,15 +113,6 @@ PUT /api/drivers/:id/status - Update driver status
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 Future Enhancements
-- Real-time location tracking
-- Mobile app development
-- Payment integration
-- Advanced analytics dashboard
-- Push notifications
-
-## 👥 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🙏 Acknowledgments
 - Bootstrap for the UI components
