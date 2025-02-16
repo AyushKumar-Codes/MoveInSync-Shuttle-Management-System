@@ -75,12 +75,11 @@ The application will be available at http://localhost:3000
 ## 📸 Screenshots
 | Feature | Screenshot |
 | ------------- | ----------- |
-| User Dashboard | User Dashboard |
-| Booking Interface | Booking Interface |
-| Admin Dashboard | Admin Dashboard |
-| Driver Management | Driver Management |
-| Route Management | Route Management |
-| Booking History | Booking History |
+| Booking Interface | ![Image](https://github.com/user-attachments/assets/86569f51-d42f-4dfa-8aff-2abdd006c7cc) |
+| Admin Dashboard | ![Image](https://github.com/user-attachments/assets/322e632f-1812-476a-89b9-8747e70b8486) |
+| Driver Management | ![Image](https://github.com/user-attachments/assets/c72a0016-0911-4e36-ba6a-b1ea045c5e18)  ![Image](https://github.com/user-attachments/assets/51177000-4275-42b9-9d40-ca4da7820ddb)|
+| Route Management | ![Image](https://github.com/user-attachments/assets/081f4ef9-925a-4875-bc65-a718e28f1447) |
+| Booking Details | ![Image](https://github.com/user-attachments/assets/a6f1d010-3438-48e3-b868-f1632dfebe6e) |
 
 ## 🎥 Demo
 
